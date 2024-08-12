@@ -1,4 +1,7 @@
 {
+    "@context": [
+        "https://smartdatamodels.org/context.jsonld"
+    ],
     "id": "urn:ngsi-ld:AgriFertilize:1",
     "type": "AgriFertilize",
     "dateCreated": "2023-06-01T12:00:00Z",
@@ -126,6 +129,5 @@
         "id": "tmi123",
         "name": "TMI Name",
         "type": "TMIType"
-    },
-    "@context": "https://raw.githubusercontent.com/smart-data-models/dataModel.Agrifood/master/context.jsonld"
+    }
 }
