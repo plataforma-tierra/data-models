@@ -1,4 +1,7 @@
 {
+    "@context": [
+        "https://smartdatamodels.org/context.jsonld"
+    ],
     "id": "urn:ngsi-ld:dataModel:id:DSZK:70282457",
     "type": "AgriPhytosanitary",
     "dateCreated": {
@@ -170,8 +173,5 @@
             "Participant fall might almost. Near herself others a"
         ]
     },
-    "measur": null,
-    "@context": [
-        "https://raw.githubusercontent.com/smart-data-models/dataModel.Agrifood/master/context.jsonld"
-    ]
+    "measur": null
 }
