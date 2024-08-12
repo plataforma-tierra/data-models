@@ -127,7 +127,5 @@
         "name": "TMI Name",
         "type": "TMIType"
     },
-    "@context": [
-        "https://raw.githubusercontent.com/smart-data-models/dataModel.Agrifood/master/context.jsonld"
-    ]
+    "@context": ""
 }
