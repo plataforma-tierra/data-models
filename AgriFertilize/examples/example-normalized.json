@@ -343,8 +343,8 @@
                 "value": "kg/ha"
             },
             "prior": {
-                "type": "Number",
-                "value": 1
+                "type": "Text",
+                "value": "1"
             },
             "detail": {
                 "type": "Text",
@@ -361,8 +361,8 @@
         "value": {
             "type": "Measure",
             "id": {
-                "type": "Number",
-                "value": 514
+                "type": "Tect",
+                "value": "514"
             },
             "subtype": {
                 "type": "StructuredValue",
@@ -391,8 +391,8 @@
                 "value": "l"
             },
             "prior": {
-                "type": "Number",
-                "value": 3
+                "type": "Text",
+                "value": "3"
             },
             "detail": {
                 "type": "Text",
@@ -421,8 +421,8 @@
         "value": {
             "type": "TAF",
             "id": {
-                "type": "Number",
-                "value": 1
+                "type": "Text",
+                "value": "1"
             },
             "name": {
                 "type": "Text",
@@ -435,8 +435,8 @@
         "value": {
             "type": "MAF",
             "id": {
-                "type": "Number",
-                "value": 1
+                "type": "Text",
+                "value": "1"
             },
             "name": {
                 "type": "Text",
@@ -449,8 +449,8 @@
         "value": {
             "type": "TMI",
             "id": {
-                "type": "Number",
-                "value": 1
+                "type": "Text",
+                "value": "1"
             },
             "name": {
                 "type": "Text",
