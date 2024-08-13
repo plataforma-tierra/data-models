@@ -10,7 +10,7 @@
         "value": "2024-05-30T09:14:44.000Z"
     },
     "name": {
-        "type": "Text"
+        "type": "Text",
         "value": "Primera Fertilizacion Campaña 2024"
     },
     "subtype": {
@@ -22,6 +22,7 @@
                 "value": 1339
             },
             "code": {
+                "type": "Text",
                 "value": "F0002478/2025"
             },
             "name": {
@@ -54,6 +55,7 @@
                                             "value": 1
                                         },
                                         "name": {
+                                            "type": "Text",
                                             "value": "Macronutriente principal"
                                         }
                                     }
