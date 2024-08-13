@@ -313,8 +313,8 @@
         "value": {
             "type": "Measure",
             "id": {
-                "type": "Number",
-                "value": 501
+                "type": "Text",
+                "value": "501"
             },
             "subtype": {
                 "type": "StructuredValue",
