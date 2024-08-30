@@ -160,8 +160,8 @@
                             "value": {
                                 "type": "UserMetadata",
                                 "id": {
-                                    "type": "Number",
-                                    "value": 1
+                                    "type": "Text",
+                                    "value": "1"
                                 },
                                 "loginname": {
                                     "type": "Text",
