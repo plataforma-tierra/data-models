@@ -3,7 +3,7 @@
     "type": "AgriFertilize",
     "dateCreated": "30-05-2024 09:14:44",
     "dateModified": "30-05-2024 09:14:44",
-    "name": "Primera Fertilizacion",
+    "name": "",
     "subtype": {
         "type": "TypeFertilize",
         "id": 1339,
@@ -130,7 +130,7 @@
     "r10": "",
     "mud": 0,
     "bill": "",
-    "plan": "Plan 1",
+    "plan": null,
     "taf": {
         "type": "TAF",
         "id": "1",
@@ -150,5 +150,5 @@
     "tgp": [],
     "machine": [],
     "detail": "",
-    "idcp": ["13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39"]
+    "idcp": ["13", "14", "15"]
 }
