@@ -11,7 +11,7 @@
     },
     "name": {
         "type": "Text",
-        "value": "Primera Fertilizacion Campaña 2024"
+        "value": ""
     },
     "subtype": {
         "type": "StructuredValue",
@@ -32,6 +32,100 @@
             "mmcm": {
                 "type": "StructuredValue",
                 "value": [
+                    {
+                        "type": "CM",
+                        "id": {
+                            "type": "Number",
+                            "value": 10000
+                        },
+                        "subtype": {
+                            "type": "StructuredValue",
+                            "value": {
+                                "type": "TCM",
+                                "id": {
+                                    "type": "Number",
+                                    "value": 1
+                                },
+                                "subtype": {
+                                    "type": "StructuredValue",
+                                    "value": {
+                                        "type": "SCM",
+                                        "id": {
+                                            "type": "Number",
+                                            "value": 1
+                                        },
+                                        "name": {
+                                            "type": "Text",
+                                            "value": "Macronutriente principal"
+                                        }
+                                    }
+                                },
+                                "code": {
+                                    "type": "Number",
+                                    "value": 1
+                                },
+                                "name": {
+                                    "type": "Text",
+                                    "value": "Nitrógeno total"
+                                },
+                                "symbol": {
+                                    "type": "Text",
+                                    "value": "% N total"
+                                }
+                            }
+                        },
+                        "value": {
+                            "type": "Number",
+                            "value": 1.5
+                        }
+                    },
+                    {
+                        "type": "CM",
+                        "id": {
+                            "type": "Number",
+                            "value": 10001
+                        },
+                        "subtype": {
+                            "type": "StructuredValue",
+                            "value": {
+                                "type": "TCM",
+                                "id": {
+                                    "type": "Number",
+                                    "value": 6
+                                },
+                                "subtype": {
+                                    "type": "StructuredValue",
+                                    "value": {
+                                        "type": "SCM",
+                                        "id": {
+                                            "type": "Number",
+                                            "value": 1
+                                        },
+                                        "name": {
+                                            "type": "Text",
+                                            "value": "Macronutriente principal"
+                                        }
+                                    }
+                                },
+                                "code": {
+                                    "type": "Number",
+                                    "value": 6
+                                },
+                                "name": {
+                                    "type": "Text",
+                                    "value": "Óxido de fósforo total"
+                                },
+                                "symbol": {
+                                    "type": "Text",
+                                    "value": "% P2O5 total"
+                                }
+                            }
+                        },
+                        "value": {
+                            "type": "Number",
+                            "value": 1
+                        }
+                    },
                     {
                         "type": "CM",
                         "id": {
@@ -73,6 +167,10 @@
                                     "value": "% K2O total"
                                 }
                             }
+                        },
+                        "value": {
+                            "type": "Number",
+                            "value": 2
                         }
                     }
                 ]
@@ -120,6 +218,7 @@
                 }
             },
             "manure": {
+                "type": "Text",
                 "value": null
             },
             "material": {
@@ -136,6 +235,7 @@
                 }
             },
             "matdet": {
+                "type": "Text",
                 "value": null
             },
             "provider": {
@@ -160,8 +260,8 @@
                             "value": {
                                 "type": "UserMetadata",
                                 "id": {
-                                    "type": "Text",
-                                    "value": "1"
+                                    "type": "Number",
+                                    "value": 1
                                 },
                                 "loginname": {
                                     "type": "Text",
@@ -263,7 +363,7 @@
         "value": {
             "type": "Measure",
             "id": {
-                "type": "Tect",
+                "type": "Text",
                 "value": "514"
             },
             "subtype": {
@@ -316,7 +416,7 @@
     },
     "plan": {
         "type": "Text",
-        "value": "Plan 1"
+        "value": null
     },
     "taf": {
         "type": "StructuredValue",
