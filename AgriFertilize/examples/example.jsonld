@@ -1,8 +1,5 @@
 {
-    "@context": [
-        "https://smartdatamodels.org/context.jsonld"
-    ],
-    "id": "urn:ngsi-ld:AgriFertilize:1",
+    "id": "urn:ngsi-ld:dataModel:id:ABC12345",
     "type": "AgriFertilize",
     "dateCreated": "2023-06-01T12:00:00Z",
     "dateModified": "2024-06-01T12:00:00Z",
@@ -18,7 +15,7 @@
         "code": 101,
         "symbol": "M"
     },
-    "name": "Primera Fertilizacion Campaña 2024",
+    "name": "Fertilizer Campaign 2024",
     "subtype": {
         "aacm": [
             {"exampleObjectKey": "exampleObjectValue"}
@@ -114,7 +111,7 @@
         "symbol": "S"
     },
     "mud": 1,
-    "plan": "Plan 1",
+    "plan": null,
     "r10": "R1023456",
     "soup": 100.0,
     "taf": {
@@ -129,5 +126,8 @@
         "id": "tmi123",
         "name": "TMI Name",
         "type": "TMIType"
-    }
+    },
+    "@context": [
+        "https://smartdatamodels.org/context.jsonld"
+    ]
 }
