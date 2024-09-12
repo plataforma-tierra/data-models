@@ -66,6 +66,7 @@
         "mmcm": [
             {
                 "id": 987,
+                "value": 111,
                 "subtype": {
                     "code": 202,
                     "id": 808,
