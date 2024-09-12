@@ -240,7 +240,7 @@
               },
               "value": {
                 "type": "number",
-                "description": "Property. Value of mmcm."
+                "description": "Property. This field contains the value associated to the mmcm."
               },
               "subtype": {
                 "type": "object",
