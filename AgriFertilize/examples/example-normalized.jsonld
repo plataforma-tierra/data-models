@@ -317,7 +317,7 @@
             "type": "Measure",
             "id": {
                 "type": "Property",
-                "value": 501
+                "value": "501"
             },
             "subtype": {
                 "type": "Property",
