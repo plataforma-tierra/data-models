@@ -262,7 +262,7 @@
                                 "type": "UserMetadata",
                                 "id": {
                                     "type": "Property",
-                                    "value": 1
+                                    "value": "1"
                                 },
                                 "loginname": {
                                     "type": "Property",
