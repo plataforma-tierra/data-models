@@ -232,8 +232,11 @@
         "mmcm": {
           "type": "array",
           "items": {
-            "type": "object",
-            "properties": {
+            "properties": {              
+              "type": {
+                "type": "string",
+                "description": "Property. This field contains the type associated to the mmcm."
+              },
               "id": {
                 "type": "number",
                 "description": "Property. Identifier of mmcm."
