@@ -238,6 +238,10 @@
                 "type": "number",
                 "description": "Property. Identifier of mmcm."
               },
+              "value": {
+                "type": "number",
+                "description": "Property. Value of mmcm."
+              }
               "subtype": {
                 "type": "object",
                 "description": "Property. Subtype details of mmcm.",
