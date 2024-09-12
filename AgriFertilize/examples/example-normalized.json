@@ -38,6 +38,10 @@
                             "type": "Number",
                             "value": 10000
                         },
+                        "value": {
+                            "type": "Number",
+                            "value": 1.5
+                        },
                         "subtype": {
                             "type": "StructuredValue",
                             "value": {
@@ -73,10 +77,6 @@
                                     "value": "% N total"
                                 }
                             }
-                        },
-                        "value": {
-                            "type": "Number",
-                            "value": 1.5
                         }
                     },
                     {
@@ -84,6 +84,10 @@
                         "id": {
                             "type": "Number",
                             "value": 10001
+                        },
+                        "value": {
+                            "type": "Number",
+                            "value": 1
                         },
                         "subtype": {
                             "type": "StructuredValue",
@@ -120,10 +124,6 @@
                                     "value": "% P2O5 total"
                                 }
                             }
-                        },
-                        "value": {
-                            "type": "Number",
-                            "value": 1
                         }
                     },
                     {
@@ -131,6 +131,10 @@
                         "id": {
                             "type": "Number",
                             "value": 10002
+                        },
+                        "value": {
+                            "type": "Number",
+                            "value": 2
                         },
                         "subtype": {
                             "type": "StructuredValue",
@@ -167,10 +171,6 @@
                                     "value": "% K2O total"
                                 }
                             }
-                        },
-                        "value": {
-                            "type": "Number",
-                            "value": 2
                         }
                     }
                 ]
