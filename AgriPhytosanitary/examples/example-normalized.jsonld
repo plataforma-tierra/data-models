@@ -19,7 +19,7 @@
             "type": "TypePhytosanitary",
             "id": {
                 "type": "Property",
-                "value": 183
+                "value": "183"
             },
             "idpdf": {
                 "type": "Property",
