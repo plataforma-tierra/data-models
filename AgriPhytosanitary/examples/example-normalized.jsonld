@@ -231,7 +231,7 @@
     },
     "surface": {
         "type": "Property",
-        "value": 60.1027
+        "value": "60.1027"
     },
     "entrylimit": {
         "type": "Property",
