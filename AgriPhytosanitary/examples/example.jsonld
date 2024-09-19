@@ -1,177 +1,72 @@
 {
+    "id": "urn:ngsi-ld:dataModel:id:DSZK70282457",
+    "type": "AgriPhytosanitary",
+    "dateCreated": "25-09-2023 15:34:21",
+    "dateModified": "25-09-2023 15:34:21",
+    "name": "11179 - Microthiol special disperss",
+    "subtype": {
+        "type": "TypePhytosanitary",
+        "id": "183",
+        "idpdf": "88013",
+        "code": "11179",
+        "name": "Microthiol Special Disperss",
+        "names": ["Colpenn", "Microthiol Special Disperss", "Sulf 80 Wg"],
+        "idate": "01-01-1970",
+        "rdate": "",
+        "edate": "15-04-2025",
+        "cdate": "",
+        "ldate": "",
+        "mix": 1,
+        "idtf": [11, 1],
+        "comp": {
+            "type": "Company",
+            "id": 1,
+            "name": "Upl Iberia S.a.",
+            "nif": "A08103343"
+        },
+        "subs": {
+            "type": "Substance",
+            "id": "1",
+            "name": "Azufre 80% [Wg] P/P"
+        },
+        "prod": {
+            "type": "TypeProduct",
+            "id": 1,
+            "name": "Producto fitosanitario registrado"
+        },
+        "ci": []
+    },
+    "dose": "1",
+    "measure": "1",
+    "efficacy": {
+        "type": "TypeEfficacy",
+        "id": "1",
+        "name": "Buena",
+        "detail": ""
+    },
+    "typerisk": "1",
+    "infection": "1",
+    "detail": "1",
+    "tj": [],
+    "idtpismv": [],
+    "distributed": "0",
+    "batch": "",
+    "soup": "0",
+    "dt": "0",
+    "mdt": null,
+    "st": "0",
+    "mst": null,
+    "preventive": "0",
+    "pp": "0",
+    "speed": "0",
+    "recipe": "0",
+    "surface": "60.1027",
+    "entrylimit": "0",
+    "seclimit": "0",
+    "machine": [],
+    "idcp": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+    "measur": null,
     "@context": [
         "https://smartdatamodels.org/context.jsonld"
-    ],
-    "id": "urn:ngsi-ld:dataModel:id:DSZK:70282457",
-    "type": "AgriPhytosanitary",
-    "dateCreated": {
-        "type": "Property",
-        "value": {
-            "@type": "DateTime",
-            "@value": "2010-05-29T18:28:03Z"
-        }
-    },
-    "dateModified": {
-        "type": "Property",
-        "value": {
-            "@type": "DateTime",
-            "@value": "2007-03-05T12:34:01Z"
-        }
-    },
-    "name": {
-        "type": "Property",
-        "value": "Lose check tell its fear. Fact know training town "
-    },
-    "subtype": {
-        "type": "Property",
-        "value": {
-            "type": "Campaign national performance support move professional wind. Real head share sell see end animal. Box pick phone about newspaper.",
-            "id": "urn:ngsi-ld:id:id:AKMJ:62131694",
-            "idpdf": "Debate study ahead on baby. Positive expert born two. Hear choice create statement vote international",
-            "code": "Man figure relate carry. Side west way race without stuff. Marriage strong commercial ten ask education.",
-            "name": "As like bag often way recently. Half middle dark send kid have dinner. Indeed us shake themselves exac",
-            "names": [
-                "National result share leader add. Report exactly recognize yet relate full leg.",
-                "Apply investment another speech later tonight. What theory southern however another. "
-            ],
-            "idate": "Along star structure sport. Future environment machine during green just hair. Major parent station hard. Star interesting dog black like kind.",
-            "rdate": "Bill charge hair where response bank practice. Past start hotel nation analysis. Difficult similar lawyer return.",
-            "edate": "Behavior check better college. Vote discov",
-            "cdate": "T",
-            "ldate": "From near pull even low six indicate should. Child term bank parent spring business strong president. Hair war wife tough various or away.",
-            "mix": 357.8,
-            "idtf": [
-                876.5,
-                528.6
-            ],
-            "comp": {
-                "id": "urn:ngsi-ld:id:id:ZAHH:35269945",
-                "name": "Because his you protect Congress. Item particularly cause. Sound industry discuss turn start sport.",
-                "nif": "Probably different move everything. Off foreign strong after than. Team agree mean religious everybody material possible",
-                "type": "Thus because customer."
-            },
-            "subs": {
-                "type": "Poor deal space arm. Life occur treatment",
-                "id": "urn:ngsi-ld:id:id:VUWV:80955697",
-                "name": "Factor describe relationship evening street. Man technology improve day. Management present government good page population eith"
-            },
-            "prod": {
-                "type": "Series prove college president space prepare event. Six to military few safe manage. Want another bring others let improve both leader.",
-                "id": "urn:ngsi-ld:id:id:DDMF:42838101",
-                "name": "And structure machine identify relate. Of word anyone that. Teacher range level past manage. Contain effect rock."
-            },
-            "ci": [
-                "Memory themselves traditional large significant issue. Smile century ask wind control purpose. Citizen att",
-                "Lay deep method from our. If trial pretty response g"
-            ]
-        }
-    },
-    "dose": {
-        "type": "Property",
-        "value": "Leader garden across would do career surface paper."
-    },
-    "measure": {
-        "type": "Property",
-        "value": "Company three total message. Relate hair other half safe American piece."
-    },
-    "efficacy": {
-        "type": "Property",
-        "value": {
-            "type": "Even necessary north resource time energy he experience. Beat face instead style show. Leg choose degree coach order interview century. Mouth week probably economic institution trut",
-            "id": "urn:ngsi-ld:id:id:OWYP:84707816",
-            "name": "Significant race common left cause.",
-            "detail": "Television data site."
-        }
-    },
-    "typerisk": {
-        "type": "Property",
-        "value": "These can church watch budget serious themselves. Artist front thing contain agent be age busine"
-    },
-    "infection": {
-        "type": "Property",
-        "value": "Animal quickly enough dark order low production surface. Seven daughter model may. Feeling value own dream. Adult ev"
-    },
-    "detail": {
-        "type": "Property",
-        "value": "Wrong senior another maybe"
-    },
-    "tj": {
-        "type": "Property",
-        "value": [
-            "Meeting sense anything answer. Team tonight coach agent represent sea.",
-            "Mother option our. Right south gas story."
-        ]
-    },
-    "idtpismv": {
-        "type": "Property",
-        "value": [
-            "Determine nation some law act actually. You summer but of.",
-            "Company media grow enjoy girl. Table call likely away participant. Skill inc"
-        ]
-    },
-    "distributed": {
-        "type": "Property",
-        "value": "Place"
-    },
-    "batch": {
-        "type": "Property",
-        "value": "Sure out carry join many require course."
-    },
-    "soup": {
-        "type": "Property",
-        "value": "West important art. Cold analysis act card accept out civil."
-    },
-    "dt": {
-        "type": "Property",
-        "value": "Indeed here second property. Above factor rather system program "
-    },
-    "mdt": null,
-    "st": {
-        "type": "Property",
-        "value": "Outs"
-    },
-    "mst": null,
-    "preventive": {
-        "type": "Property",
-        "value": "Way important dream until. Face bad human difference suggest. Commercial here more."
-    },
-    "pp": {
-        "type": "Property",
-        "value": "Protect century stay but every."
-    },
-    "speed": {
-        "type": "Property",
-        "value": "By become work near. Late coach bed either seven standard across."
-    },
-    "recipe": {
-        "type": "Property",
-        "value": "Cover manager environment design account attention. None office carry race similar science."
-    },
-    "surface": {
-        "type": "Property",
-        "value": "Apply ready place ahead wife six. Little power easy him despite national again."
-    },
-    "entrylimit": {
-        "type": "Property",
-        "value": "Toward want time bed. New security exist if week these. Last camera bit guy choose turn office."
-    },
-    "seclimit": {
-        "type": "Property",
-        "value": "Act put local order near indeed wish feeling. Student police reach guy history north picture. Seem simply job happy deal educat"
-    },
-    "machine": {
-        "type": "Property",
-        "value": [
-            "Among deep behavior analysis treat use cut effort. As sort radio human.",
-            "Process page music clearly. Leader entire all with foreign until family thus. Final be hair choice."
-        ]
-    },
-    "idcp": {
-        "type": "Property",
-        "value": [
-            "Program coach hard important on might impact economy.",
-            "Participant fall might almost. Near herself others a"
-        ]
-    },
-    "measur": null
+    ]
 }
