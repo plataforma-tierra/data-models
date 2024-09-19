@@ -230,8 +230,8 @@
         "value": "0"
     },
     "surface": {
-        "type": "Number",
-        "value": 60.1027
+        "type": "Text",
+        "value": "60.1027"
     },
     "entrylimit": {
         "type": "Text",
@@ -249,52 +249,20 @@
         "type": "StructuredValue",
         "value": [
             {
-                "type": "Number",
-                "value": 1
+                "type": "Text",
+                "value": "1"
             },
             {
-                "type": "Number",
-                "value": 2
+                "type": "Text",
+                "value": "2"
             },
             {
-                "type": "Number",
-                "value": 3
+                "type": "Text",
+                "value": "3"
             },
             {
-                "type": "Number",
-                "value": 4
-            },
-            {
-                "type": "Number",
-                "value": 5
-            },
-            {
-                "type": "Number",
-                "value": 6
-            },
-            {
-                "type": "Number",
-                "value": 7
-            },
-            {
-                "type": "Number",
-                "value": 8
-            },
-            {
-                "type": "Number",
-                "value": 9
-            },
-            {
-                "type": "Number",
-                "value": 10
-            },
-            {
-                "type": "Number",
-                "value": 11
-            },
-            {
-                "type": "Number",
-                "value": 12
+                "type": "Text",
+                "value": "4"
             }
         ]
     },
