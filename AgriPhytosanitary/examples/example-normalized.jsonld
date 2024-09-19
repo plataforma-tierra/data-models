@@ -250,19 +250,19 @@
         "value": [
             {
                 "type": "Property",
-                "value": 1
+                "value": "1"
             },
             {
                 "type": "Property",
-                "value": 2
+                "value": "2"
             },
             {
                 "type": "Property",
-                "value": 3
+                "value": "3"
             },
             {
                 "type": "Property",
-                "value": 4
+                "value": "4"
             }
         ]
     },
