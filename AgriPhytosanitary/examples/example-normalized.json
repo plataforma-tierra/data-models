@@ -152,8 +152,8 @@
         "value": {
             "type": "TypeEfficacy",
             "id": {
-                "type": "Number",
-                "value": 1
+                "type": "Text",
+                "value": "1"
             },
             "name": {
                 "type": "Text",
