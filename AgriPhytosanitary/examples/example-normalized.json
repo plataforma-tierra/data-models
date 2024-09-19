@@ -18,8 +18,8 @@
         "value": {
             "type": "TypePhytosanitary",
             "id": {
-                "type": "Number",
-                "value": 183
+                "type": "Text",
+                "value": "183"
             },
             "idpdf": {
                 "type": "Text",
